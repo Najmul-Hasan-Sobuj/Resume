@@ -1,6 +1,6 @@
 # Resume
 
-If at the first click you do not see the resume then refresh the page for the second time. <br>
+If at the first click you do not see the resume then refresh the page for the second time.
 <a target="_blank" href="https://najmul-hasan-sobuj.github.io/Resume" data-view-component="true" class="Link--primary text-bold mx-2">
     Go to Resume
 </a>  <br>
